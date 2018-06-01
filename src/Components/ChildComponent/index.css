@@ -1,0 +1,9 @@
+.b-modal-container {
+	border: 1px solid black;
+	padding: 10px;
+	width: 300px;
+}
+.b-modal-container-buttons {
+	display: flex;
+	justify-content: space-around;
+}
